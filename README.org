@@ -1,0 +1,10 @@
+#+title: Elcord-RS
+* What is this?
+Elcord-RS is a library I made in Rust which is supposed to make elcord's status
+when interacting with X Windows apply new custom information.
+
+This code is meant to be used with GNU Emacs' EXWM package...
+
+** Features (Currently Working on...)
+- Apply custom display status icon to a specific X Window buffer
+- Use existing X Window data to then be displayed upon elcord 
